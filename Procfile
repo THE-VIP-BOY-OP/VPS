@@ -1,1 +1,1 @@
-worker: python3 -m Dockerfile
+worker: python3 -m VPS
